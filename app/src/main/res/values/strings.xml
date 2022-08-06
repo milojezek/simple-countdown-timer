@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountdownTimer</string>
+    <string name="button_reset">reset</string>
+</resources>
